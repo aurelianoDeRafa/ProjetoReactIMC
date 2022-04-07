@@ -24,4 +24,4 @@ Projeto em React + Typecript  desenvolvido durante o curso [B7Web](https://b7web
 - `npm install`
 
 ### Para rodar 
-- `npm start`
+- `npm run dev`
